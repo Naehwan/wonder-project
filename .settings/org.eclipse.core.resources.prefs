@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/java/kr/co/wonder/admin/AdminController.java=UTF-8
+encoding//src/main/java/kr/co/wonder/admin/AdminDAO.java=UTF-8
+encoding//src/main/java/kr/co/wonder/admin/AdminService.java=UTF-8
+encoding//src/main/java/kr/co/wonder/admin/AdminServiceImpl.java=UTF-8
+encoding//src/main/java/kr/co/wonder/member/MemberDTO.java=UTF-8
+encoding//src/main/java/kr/co/wonder/notice/NoticeController.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/home.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/include2/hint1.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/include2/menu.jsp=UTF-8
